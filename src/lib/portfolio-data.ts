@@ -1,21 +1,21 @@
 // All portfolio content lives here so it can be updated without touching layout code.
 import defenderImg from "@/assets/project-defender.webp";
 import qrImg from "@/assets/project-qr.webp";
-import pandasCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/pandas.jpeg";
-import OAMCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/OAM.jpeg";
-import BasicLinuxCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Basic Linux & AWS EC2.jpeg";
-import DataScienceCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Data Science with Python.jpeg";
-import FirstCapAWSCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/First Cap into AWS.jpeg";
-import BackendCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Fundamentals of Backend.jpeg";
-import InternCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Intern.jpeg";
-import LearningCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Learning Challenge.jpeg";
-import LORCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/LOR.jpeg";
-import nodejsCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Nodejs.jpeg";
-import offerletterCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Offerletter.jpeg";
-import PythonCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Python.jpeg";
-import pythonCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/Python_1.jpeg";
-import ReactNativeExpoCertificate from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/React Native & Expo.jpeg";
-import profilePhoto from "/home/palindrome/Downloads/naman-karna-portfolio-source/src/assets/namanpic.jpeg";
+import pandasCertificate from "../assets/pandas.jpeg";
+import OAMCertificate from "../assets/OAM.jpeg";
+import BasicLinuxCertificate from "..//assets/Basic Linux & AWS EC2.jpeg";
+import DataScienceCertificate from "../assets/Data Science with Python.jpeg";
+import FirstCapAWSCertificate from "../assets/First Cap into AWS.jpeg";
+import BackendCertificate from "../assets/Fundamentals of Backend.jpeg";
+import InternCertificate from "../assets/Intern.jpeg";
+import LearningCertificate from "../assets/Learning Challenge.jpeg";
+import LORCertificate from "../assets/LOR.jpeg";
+import nodejsCertificate from "../assets/Nodejs.jpeg";
+import offerletterCertificate from "../assets/Offerletter.jpeg";
+import PythonCertificate from "../assets/Python.jpeg";
+import pythonCertificate from "../assets/Python_1.jpeg";
+import ReactNativeExpoCertificate from "../assets/React Native & Expo.jpeg";
+import profilePhoto from "../assets/namanpic.jpeg";
 
 export const profile = {
   name: "Naman Karna",
