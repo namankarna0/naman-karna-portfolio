@@ -1,4 +1,4 @@
-g# Naman Karna — Personal Portfolio
+# Naman Karna — Personal Portfolio
 
 **Aspiring AI/ML Engineer & Computer Engineering Student**  
 Biratnagar, Nepal · Learning. Building. Creating. Improving.
